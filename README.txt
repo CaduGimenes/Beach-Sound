@@ -1,1 +1,3 @@
-Projeto criado por minha equipe de TCC na instituiÁ„o Centro Paula Souza - Etec de Praia Grande Extens„o Balne·rio Maracan„, em Setembro de 2016.
+# Primeiro projeto
+
+Projeto criado por minha equipe de TCC na institui√ß√£o Centro Paula Souza - Etec de Praia Grande Extens√£o Balne√°rio Maracan√£, em Setembro de 2016.
